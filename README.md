@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi! I’m Aaron</h1>
 <h3 align="center">Computer Engineering & Business student at Simon Fraser University</h3>
 
-- **👀 Primary language:** I’m most proficient in C++ 
-- **🌱 Areas I want to develop:** I am looking to learn other coding languages
+- **👀 Primary language:** I’m most proficient in C++ but I am also able to work in C and Java
+- **🌱 Areas I want to develop:** I am looking to learn other coding languages such as Python
 - **📫 You can reach me at:** workaaronnlopez@gmail.com
 - **🧑‍🏫 Something about me:** If it weren't for engineering, I would love to be a teacher
 
