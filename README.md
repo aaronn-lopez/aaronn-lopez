@@ -10,7 +10,7 @@
 
 <h3 align="left">My LinkedIn:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aaron-lopez-61567520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-todd-26a8591a1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaron-lopez-61567520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaron-lopez-61567520a/" height="30" width="40" /></a>
 </p>
 
 <!---
