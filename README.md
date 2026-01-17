@@ -6,7 +6,6 @@
 - **📫 You can reach me at:** workaaronnlopez@gmail.com
 - **🧑‍🏫 Something about me:** If it weren't for engineering, I would love to be a teacher
 
-<h3 align="center">Check out this website! - https://sitereviewdesk.ai/</h3>
 
 <h3 align="left">My LinkedIn:</h3>
 <p align="left">
